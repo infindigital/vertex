@@ -1,0 +1,4070 @@
+{
+ "about": {
+  "title": "About Us - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h1",
+    "txt": "About Us"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/about-us.png",
+    "alt": ""
+   },
+   {
+    "t": "h6",
+    "txt": "About Vertex Line Solutions"
+   },
+   {
+    "t": "h2",
+    "txt": "We provide high-quality safety products."
+   },
+   {
+    "t": "p",
+    "txt": "Vertex line Solutions, powered by Waiz Enterprise is dedicated to supplying durable, certified, and dependable safety and industrial products across the \nUAE \nand Saudi Arabia. From PPE to specialized protective equipment, we ensure every item meets strict quality and performance standards. Our goal is simple — to protect your workforce and support safer, more efficient operations."
+   },
+   {
+    "t": "h2",
+    "txt": "Our Commitment"
+   },
+   {
+    "t": "h5",
+    "txt": "Trusted Safety Solutions"
+   },
+   {
+    "t": "h5",
+    "txt": "Competative Pricing"
+   },
+   {
+    "t": "h5",
+    "txt": "Fast & Reliable Delivery"
+   },
+   {
+    "t": "h2",
+    "txt": "Customer Say!"
+   },
+   {
+    "t": "h6",
+    "txt": "Why Choose Us"
+   },
+   {
+    "t": "h2",
+    "txt": "RELIABLE SOLUTIONS FOR EVERY WORKPLACE"
+   },
+   {
+    "t": "h5",
+    "txt": "Our Vision"
+   },
+   {
+    "t": "h5",
+    "txt": "Our Mission"
+   },
+   {
+    "t": "h2",
+    "txt": "Our Trusted Partners"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/TAQA.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/EWEC.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/Al-Ain-Dist.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/TRANSCO.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/Adnoc-logo.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/Abu-Dhabi-Dist.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "all-categories": {
+  "title": "All Categories - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/industrial-equipments.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/PPe-essentials.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/construction-and-infrastructure.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/electric.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/roads.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/chemicals-and-sealents.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "brands": {
+  "title": "Brands - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h2",
+    "txt": "Trusted Brands We Work With"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/jsp.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/dapro.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/safety-jogger.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/Untitled-design-2025-11-23T200050.978.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/watchgas.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/allen-cooper.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/catepelllar.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/safety-jogger.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/cavalier.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/workland.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/3m.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/honeywell-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/karam-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/pyramex-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/ansell-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/portwest-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/nomax-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/uvex.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/vaultex-1.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/deltaplus.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/sundstrom.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/safety.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/scame.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/spider-electric.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/siemns.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/legrand.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/ducab.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/panasinic.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/makitta.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/dewalt.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/philips.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/bosoch.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/hilti.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/stanley.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/black-decker.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/crosby.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/fischer.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/kindrick.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/cummins.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/perkins.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/abb.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/mobil.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/castrol.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/sun.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/gulf.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/terminator.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/wurth.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/bessy.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/gew.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/loctite.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/permatex.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/fevicol.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/jotun.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/wd40.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/hempel.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/national-paints.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/carboline.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/ninja.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/milwake.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/proto.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/eaton.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/protomin.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/makita.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "contact": {
+  "title": "Contact Us - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h3",
+    "txt": "Suport Customer"
+   },
+   {
+    "t": "h5",
+    "txt": "Phone No:"
+   },
+   {
+    "t": "h5",
+    "txt": "Email:"
+   },
+   {
+    "t": "h5",
+    "txt": "Address:"
+   },
+   {
+    "t": "h3",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "faq": {
+  "title": "FAQ - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h4",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "p",
+    "txt": "Vertexline Solutions supplies a wide range of safety and industrial products, including certified PPE, protective gear, and specialized workplace safety equipment designed for various industries across the UAE."
+   },
+   {
+    "t": "p",
+    "txt": "Yes. All our products meet strict quality, safety, and performance standards. We work only with trusted manufacturers to ensure compliance with relevant UAE and international safety certifications."
+   },
+   {
+    "t": "p",
+    "txt": "We serve businesses of all sizes, including construction companies, factories, warehouses, maintenance teams, contractors, and industrial facilities, as well as individual buyers seeking reliable safety solutions."
+   },
+   {
+    "t": "p",
+    "txt": "Yes. We provide fast and reliable delivery across the UAE, ensuring your safety products reach you on time and in perfect condition."
+   },
+   {
+    "t": "p",
+    "txt": "Our products are carefully sourced from trusted suppliers, tested for durability, and selected to meet workplace safety requirements. Quality assurance is a core part of our commitment."
+   },
+   {
+    "t": "p",
+    "txt": "Absolutely. We offer competitive pricing for both small and large orders, making our products cost-effective for businesses without compromising on quality."
+   },
+   {
+    "t": "p",
+    "txt": "Yes. Our experienced team provides product guidance and support, helping you select the most suitable safety equipment based on your industry, work environment, and compliance needs."
+   },
+   {
+    "t": "p",
+    "txt": "We are committed to responsible sourcing and offer environmentally conscious products wherever possible, supporting safer workplaces and a better environment."
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "our-stores": {
+  "title": "Our Stores - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-1.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "South Fulton"
+   },
+   {
+    "t": "p",
+    "txt": "100 Main Street, South Fulton, GA 30291, United States.\n\n+1 (973) 435-3638\n\n[email protected]"
+   },
+   {
+    "t": "p",
+    "txt": "Mon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-2.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "Place Ste-Foy"
+   },
+   {
+    "t": "p",
+    "txt": "Place Ste-Foy, Québec, QC G1V 4J3, Canada\n\n+1 (418) 765-4321\n\n[email protected]"
+   },
+   {
+    "t": "p",
+    "txt": "Mon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-3.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "Santiago Store"
+   },
+   {
+    "t": "p",
+    "txt": "Av. Apoquindo 4501, Las Condes, Santiago, Chile.\n\n+56 (2) 348-9275\n\n[email protected]"
+   },
+   {
+    "t": "p",
+    "txt": "Mon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-4.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "Sydney Store"
+   },
+   {
+    "t": "p",
+    "txt": "100 George Street, Sydney, NSW 2000, Australia.\n\n+61 (2) 4829-3756\n\n[email protected]"
+   },
+   {
+    "t": "p",
+    "txt": "Mon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-5.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "Southland Park"
+   },
+   {
+    "t": "p",
+    "txt": "123 Southland Drive, Calgary, AB T2J 5K3, Canada.\n\n+1 (403) 729-8642\n\n[email protected]\n\nMon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/03/ours-stores-6.webp",
+    "alt": ""
+   },
+   {
+    "t": "h3",
+    "txt": "Stockholm Town"
+   },
+   {
+    "t": "p",
+    "txt": "45 Drottninggatan, Stockholm, 111 51, Sweden.\n\n+46 (8) 5298-3746\n\n[email protected]"
+   },
+   {
+    "t": "p",
+    "txt": "Mon - Friday: 8:00am - 5:00pm\n\nSaturday - Sunday: 10:00am - 5:00pm"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "partners": {
+  "title": "Partners - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h2",
+    "txt": "Our Trusted Partners"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/saudi-aramco.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2025/12/Adnoc-logo.webp",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/dulsco.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/arvento-edge.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/medegemea.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/neom.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "post-ppe": {
+  "title": "Mandatory PPE for Aramco Approved Projects in Saudi Arabia - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "post-safety": {
+  "title": "Top Safety Equipment Supplier in Saudi Arabia",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "products": {
+  "title": "Products - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h1",
+    "txt": "Products"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/industrial-equipments.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/chemicals-and-sealents.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/construction-and-infrastructure.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/electric.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/roads.png",
+    "alt": ""
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/02/PPe-essentials.png",
+    "alt": ""
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreMakita Industrial Power Tools & Accessories\nA comprehensive range of Makita professional power tools and accessories designed for heavy-duty industrial, construction, and workshop applications. Known for durability, precision, and high performance, suitable for continuous professional use. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreLoctite Adhesives, Sealants & Threadlockers\nLoctite Adhesives, Sealants & Threadlockers represent the world's most comprehensive line of engineered chemical solutions for industrial assembly, maintenance, and repair applications. As a Henkel brand with over 60 years of innovation, Loctite has become synonymous with reliability in preventing fastener loosening, creating leak-proof seals, and forming permanent bonds across virtually every industry worldwide. This complete product family delivers precision-engineered performance where mechanical fastening methods fall short, offering solutions for threadlocking, retaining, sealing, and bonding that are trusted by professionals from automotive technicians to aerospace engineers. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read morePermatex Sealants & Adhesives – Professional Grade Automotive & Industrial Solutions\nPermatex is a leading manufacturer of premium chemical products for automotive, heavy-duty, and industrial applications, trusted by professionals and enthusiasts for over 100 years. Recognized by the distinctive orange and blue swirl logo, Permatex delivers innovative sealants, adhesives, gasket makers, threadlockers, and specialty chemicals that solve critical maintenance and repair challenges across multiple industries. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreRoad Works Safety Barriers & Equipment\nHeavy-duty modular road safety barriers designed for traffic control, construction zones, and temporary road diversions. Manufactured from high-impact plastic, these barriers can be water- or sand-filled for added stability and are easy to interlock, transport, and install for short- or long-term use. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreTemporary Flood Protection Barrier\nProfessional-grade modular plastic flood barriers designed for quick deployment and effective water containment in emergency flood situations and water management applications. These innovative L-shaped barrier panels interlock to create continuous, water-tight protection for properties, infrastructure, and critical facilities. Manufactured from high-density polyethylene (HDPE), these lightweight yet robust barriers provide reliable flood defense without the need for heavy equipment or extensive labor. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreBessey Tools & Equipment – Professional Clamping Solutions\nBessey is a world-renowned German manufacturer of professional-grade clamping tools and equipment, trusted by woodworkers, carpenters, and craftsmen for over 130 years. Known for innovative design, exceptional quality, and reliable performance, Bessey tools are the benchmark for precision clamping in workshops worldwide. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreHoneywell High Ankle Safety Shoes (Code: TOM) – Model 9525\nHoneywell's High Ankle Safety Shoes combine superior protection with comfort for demanding industrial and workplace environments. Manufactured in India to European safety standards, these professional-grade safety shoes feature genuine leather construction with comprehensive protective features designed to keep workers safe in hazardous conditions. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreHeavy-Duty Pad Eye Load Test Frame with Hydraulic System\nA heavy-duty hydraulic pad eye load tester designed for proof load testing and certification of pad eyes, lifting points, shackles, and welded attachments. Suitable for industrial, marine, offshore, and construction applications, this tester delivers accurate and controlled load application with high structural stability. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreDeWalt Power Tools & Drills\nDeWalt Power Tools & Drills are built for professionals and serious DIY users who demand power, precision, and durability. Designed to perform in tough job-site conditions, DeWalt tools deliver reliable performance across construction, woodworking, metalworking, and maintenance tasks. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreAllen Cooper AC-1426 Hi-Ankle Safety Shoe with PU-Rubber Sole\nStep into serious protection with the Allen Cooper AC-1426—the safety shoe that doesn't make you choose between comfort and durability. Built with premium buff oil pullup leather and a powder-coated steel toe cap that meets IS:15298 standards, this hi-ankle boot is ready for whatever your workday throws at it. The breathable textile lining keeps your feet cool during those long shifts, while the arch-supported PU foam insocks make sure you're not limping home at the end of the day. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreAllen Cooper AC1584 High Resistant Safety Boot\n\n\n\n\n\n\n\nMeet the boot that's got your feet covered no matter how tough the job gets. The Allen Cooper AC1584 is built for workers who need serious protection without sacrificing comfort. Featuring a steel toe cap that can take a beating, slip-resistant outsoles that grip when it matters most, and high-cut ankle support to keep you stable on uneven ground. The durable leather upper stands up to daily wear and tear, while the cushioned insole means your feet won't be screaming by the end of a long shift. Whether you're in construction, manufacturing, or heavy industry, these boots deliver the kind of reliability you can count on day after day. Tough enough for the hardest jobs, comfortable enough to actually want to wear them—that's the AC1584 difference.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreCarboline Coatings, Lining and Fireproofing\nCarboline delivers high-performance protective solutions engineered for the harshest industrial environments. Our comprehensive portfolio includes corrosion-resistant coatings for steel and concrete, chemical-resistant linings for tanks and pipelines, and passive fire protection systems that safeguard critical infrastructure. Trusted across marine, petrochemical, power generation, and infrastructure sectors, Carboline products provide exceptional durability, long-term asset protection, and compliance with international safety standards—backed by decades of proven performance and expert technical support. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreVaultex HAQ Modern 100% Cotton Reflective Coverall (240 GSM)\nThe Vaultex HAQ is a high-quality, modern industrial coverall designed for professionals who prioritize both safety and all-day comfort. Crafted from 100% cotton with a robust 240 GSM weight, this navy blue garment is engineered to withstand demanding work environments while providing essential breathability. Its integrated reflective elements and ergonomic design make it an ideal choice for everyday wear in various industrial sectors. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreVaultex HSI European Style 35/65 Pant & Shirt with Reflective Tape (240 GSM)\nThe Vaultex HSI is a premium European-style industrial uniform set designed for professionals seeking a balance of functionality, durability, and high visibility. Constructed from a robust 240 GSM fabric blend, this navy blue pant and shirt set is engineered with reinforced stress points and multiple utility pockets to withstand the rigors of heavy-duty work environments. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreHoneywell BW Clip H2S Single Gas Detector (2-Year Maintenance-Free)\nThe Honeywell BW Clip (Model: BWC2-H) is a compact, maintenance-free single-gas detector designed to provide reliable protection against Hydrogen Sulfide ($H_{2}S$) in hazardous industrial environments. Engineered for simplicity and durability, this device operates continuously for two years after activation with no need for sensor replacement, battery charging, or calibration, ensuring maximum uptime and safety compliance. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "Read more Read moreVaultex DLM Half Sleeve Executive Fabric Vest\nThe Vaultex DLM is a premium executive-style safety vest designed for professionals who require a high level of visibility without sacrificing durability or comfort. Part of the Vaultex high-visibility line, this vest features a \"half sleeve\" or muscle-sleeve design and is constructed from a heavy-duty 180 GSM fabric, making it more substantial than standard lightweight safety vests. Its distinctive two-tone yellow and black color scheme provides a professional look suitable for supervisors, managers, and site engineers. Read more"
+   },
+   {
+    "t": "li",
+    "txt": "1"
+   },
+   {
+    "t": "li",
+    "txt": "2"
+   },
+   {
+    "t": "li",
+    "txt": "3"
+   },
+   {
+    "t": "li",
+    "txt": "Next"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "store-location": {
+  "title": "Store Location - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "terms": {
+  "title": "Terms Of Use - Vertex Line Solutions",
+  "blocks": [
+   {
+    "t": "h6",
+    "txt": "1. Acceptance of Terms"
+   },
+   {
+    "t": "p",
+    "txt": "By accessing or purchasing from our Website, you acknowledge that you have read, understood, and agreed to these Terms of Use."
+   },
+   {
+    "t": "h6",
+    "txt": "2. Products & Availability"
+   },
+   {
+    "t": "p",
+    "txt": "All products displayed on our Website are subject to availability. We reserve the right to modify or discontinue any product without prior notice."
+   },
+   {
+    "t": "h6",
+    "txt": "3. Pricing & Payments"
+   },
+   {
+    "t": "li",
+    "txt": "All prices are listed in your selected currency and include applicable taxes unless stated otherwise."
+   },
+   {
+    "t": "li",
+    "txt": "We accept various payment methods, processed securely via trusted third-party gateways."
+   },
+   {
+    "t": "li",
+    "txt": "We reserve the right to change prices at any time without notice."
+   },
+   {
+    "t": "h6",
+    "txt": "4. Orders & Shipping"
+   },
+   {
+    "t": "li",
+    "txt": "Once an order is placed, you will receive a confirmation email with order details."
+   },
+   {
+    "t": "li",
+    "txt": "Shipping times and costs vary depending on your location and selected delivery method."
+   },
+   {
+    "t": "li",
+    "txt": "We are not responsible for delays caused by third-party shipping services or customs clearance."
+   },
+   {
+    "t": "li",
+    "txt": "Tracking information will be provided when available."
+   },
+   {
+    "t": "h6",
+    "txt": "5. Returns & Exchanges"
+   },
+   {
+    "t": "li",
+    "txt": "Returns and exchanges are accepted within 14 days of delivery, provided the item is unused and in original condition."
+   },
+   {
+    "t": "li",
+    "txt": "Sale or clearance items may not be eligible for return unless defective."
+   },
+   {
+    "t": "li",
+    "txt": "Customers are responsible for return shipping unless the item is faulty or incorrect."
+   },
+   {
+    "t": "li",
+    "txt": "Please refer to our Return Policy for detailed instructions."
+   },
+   {
+    "t": "h6",
+    "txt": "6. Promotions & Discounts"
+   },
+   {
+    "t": "li",
+    "txt": "Promotional codes must be applied at checkout and cannot be added after the order is placed."
+   },
+   {
+    "t": "li",
+    "txt": "Each promotional code is valid for a limited time and may only be used once unless otherwise stated."
+   },
+   {
+    "t": "li",
+    "txt": "Discounts cannot be combined with other offers unless explicitly mentioned."
+   },
+   {
+    "t": "li",
+    "txt": "We reserve the right to cancel any promotional campaign or reject discount code misuse at our discretion."
+   },
+   {
+    "t": "h6",
+    "txt": "7. Privacy Policy"
+   },
+   {
+    "t": "p",
+    "txt": "We are committed to protecting your privacy. Personal data collected through our Website will be handled in accordance with our Privacy Policy."
+   },
+   {
+    "t": "li",
+    "txt": "We only collect personal data necessary to process your orders and improve your experience."
+   },
+   {
+    "t": "li",
+    "txt": "Your data will never be sold or shared with third parties without your consent, except for order fulfillment."
+   },
+   {
+    "t": "li",
+    "txt": "We use cookies to personalize content and analyze traffic. You can manage your cookie preferences in your browser settings."
+   },
+   {
+    "t": "h6",
+    "txt": "8. Account & Security"
+   },
+   {
+    "t": "li",
+    "txt": "You are responsible for maintaining the confidentiality of your account and password."
+   },
+   {
+    "t": "li",
+    "txt": "We reserve the right to suspend accounts for any suspicious or fraudulent activity."
+   },
+   {
+    "t": "h6",
+    "txt": "9. Contact Information"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ },
+ "uae": {
+  "title": "Industrial PPE & Safety Equipment Supplier in UAE",
+  "blocks": [
+   {
+    "t": "h6",
+    "txt": "Reliable Industrial Safety Products Supplier Across UAE"
+   },
+   {
+    "t": "h1",
+    "txt": "PPE & Industrial Safety Equipment Supplier in UAE"
+   },
+   {
+    "t": "p",
+    "txt": "Vertex Line Solutions supplies industrial PPE and safety equipment across the UAE, supporting contractors, construction companies, and industrial operations."
+   },
+   {
+    "t": "p",
+    "txt": "Our products are used in demanding work environments including construction sites, logistics operations, manufacturing facilities, and infrastructure projects."
+   },
+   {
+    "t": "p",
+    "txt": "We supply a range of safety products designed to help businesses maintain workplace safety and protect workers operating in high-risk environments."
+   },
+   {
+    "t": "p",
+    "txt": "Our supply network supports companies across major UAE locations including\n    Dubai,\n    Abu Dhabi,\n    Sharjah,\n    Ajman, and\n    Ras Al Khaimah."
+   },
+   {
+    "t": "h5",
+    "txt": "10+ Years"
+   },
+   {
+    "t": "h5",
+    "txt": "Happy Clients"
+   },
+   {
+    "t": "h5",
+    "txt": "Trusted Brands"
+   },
+   {
+    "t": "h5",
+    "txt": "Products"
+   },
+   {
+    "t": "h2",
+    "txt": "Industrial Safety Products We Supply in UAE"
+   },
+   {
+    "t": "p",
+    "txt": "Vertex Line Solutions provides a range of personal protective equipment and industrial safety products used across construction and industrial sectors."
+   },
+   {
+    "t": "h2",
+    "txt": "Industries We Serve in the UAE"
+   },
+   {
+    "t": "p",
+    "txt": "We supply safety equipment to businesses operating across multiple industries in the UAE."
+   },
+   {
+    "t": "h2",
+    "txt": "Supplying Safety Equipment Across UAE"
+   },
+   {
+    "t": "p",
+    "txt": "Vertex Line Solutions supports businesses operating across major industrial and commercial hubs in the UAE."
+   },
+   {
+    "t": "h2",
+    "txt": "Safety Shoes Supplier in UAE"
+   },
+   {
+    "t": "p",
+    "txt": "Safety footwear is one of the most important protective items used across construction sites, warehouses, and industrial workplaces. We supply durable industrial safety shoes designed for worker protection and comfort during long working hours."
+   },
+   {
+    "t": "h3",
+    "txt": "Key Features"
+   },
+   {
+    "t": "li",
+    "txt": "Steel toe protection"
+   },
+   {
+    "t": "li",
+    "txt": "Anti-slip soles"
+   },
+   {
+    "t": "li",
+    "txt": "Oil resistant materials"
+   },
+   {
+    "t": "li",
+    "txt": "Impact resistance"
+   },
+   {
+    "t": "li",
+    "txt": "Durable industrial construction"
+   },
+   {
+    "t": "h2",
+    "txt": "Why Choose Vertex Line Solutions"
+   },
+   {
+    "t": "h3",
+    "txt": "Vertex Line Solutions"
+   },
+   {
+    "t": "p",
+    "txt": "Consistent product quality and dependable supply for industrial operations."
+   },
+   {
+    "t": "li",
+    "txt": "Reliable supply for industrial projects"
+   },
+   {
+    "t": "li",
+    "txt": "Quality safety equipment from trusted manufacturers"
+   },
+   {
+    "t": "li",
+    "txt": "Products suitable for construction and industrial environments"
+   },
+   {
+    "t": "li",
+    "txt": "Support for bulk supply requirements"
+   },
+   {
+    "t": "li",
+    "txt": "Experience supplying to contractors and industrial companies"
+   },
+   {
+    "t": "h6",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Contact Vertex Line Solutions UAE"
+   },
+   {
+    "t": "p",
+    "txt": "Your name"
+   },
+   {
+    "t": "p",
+    "txt": "Your Email"
+   },
+   {
+    "t": "p",
+    "txt": "Enter please your message"
+   },
+   {
+    "t": "p",
+    "txt": "I agree to the Privacy Policy of the website."
+   },
+   {
+    "t": "p",
+    "txt": "Send"
+   },
+   {
+    "t": "img",
+    "src": "https://vertexlinesolutions.com/wp-content/uploads/2026/01/Untitled-design-2026-01-20T132619.073.png",
+    "alt": ""
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "h2",
+    "txt": "Quick Links"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "h2",
+    "txt": "Find Us"
+   },
+   {
+    "t": "p",
+    "txt": "Find a location nearest you to reduce shipping costs and make shopping easier. Show on google maps."
+   },
+   {
+    "t": "h2",
+    "txt": "UAE : +971 521535979"
+   },
+   {
+    "t": "h2",
+    "txt": "KSA : +966 581249030"
+   },
+   {
+    "t": "h4",
+    "txt": "Search Our Site"
+   },
+   {
+    "t": "li",
+    "txt": "Menu"
+   },
+   {
+    "t": "li",
+    "txt": "Categories"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "About Us\n\n\tBrands"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Products\n\n\tSafety and PPE"
+   },
+   {
+    "t": "li",
+    "txt": "Chemicals, Paints & Sealants"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   },
+   {
+    "t": "li",
+    "txt": "About Us"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories"
+   },
+   {
+    "t": "li",
+    "txt": "All Categories v2"
+   },
+   {
+    "t": "li",
+    "txt": "Blog"
+   },
+   {
+    "t": "li",
+    "txt": "Brands"
+   },
+   {
+    "t": "li",
+    "txt": "Checkouts"
+   },
+   {
+    "t": "li",
+    "txt": "Contact Us"
+   },
+   {
+    "t": "li",
+    "txt": "FAQ"
+   },
+   {
+    "t": "li",
+    "txt": "Home"
+   },
+   {
+    "t": "li",
+    "txt": "My account"
+   },
+   {
+    "t": "li",
+    "txt": "Our Stores"
+   },
+   {
+    "t": "li",
+    "txt": "Partners"
+   },
+   {
+    "t": "li",
+    "txt": "Privacy Policy"
+   },
+   {
+    "t": "li",
+    "txt": "Products"
+   },
+   {
+    "t": "li",
+    "txt": "Store Location"
+   },
+   {
+    "t": "li",
+    "txt": "Terms Of Use"
+   },
+   {
+    "t": "li",
+    "txt": "UAE"
+   }
+  ]
+ }
+}
