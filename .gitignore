@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+
+# Packaged deliverable (large; regenerate with zip)
+vertex-website.zip
+*.zip
