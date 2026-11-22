@@ -229,7 +229,9 @@ function buildHome(){
     return `<a class="cat" href="${href}"><span class="cat__circle"><img src="/assets/images/${icon}" alt=""></span><span>${name}</span></a>`;
   }).join('');
   const body = `
-<section class="hero"><div class="container"><div class="hero-content">
+<section class="hero">
+  <video class="hero-video" id="heroVideo" autoplay muted loop playsinline preload="auto" poster="/assets/images/hero-poster.jpg"><source src="/assets/videos/hero.mp4" type="video/mp4"></video>
+  <div class="container"><div class="hero-content">
   <div class="hero-eyebrow">Simplifying International Procurement</div>
   <h1>End-to-End Sourcing Made Simple</h1>
   <p>We manage supplier identification, quality checks, pricing, and logistics to deliver a transparent and efficient sourcing experience from factory selection to final delivery.</p>

@@ -123,26 +123,27 @@ ul{margin:0;padding:0;list-style:none;}
    HERO
    ============================================================ */
 .hero{
-  position:relative;background:#e9ded0 url('../images/hero-texture.jpg') center/cover no-repeat;
-  min-height:600px;display:flex;align-items:center;
+  position:relative;background:#241f1b;overflow:hidden;
+  min-height:620px;display:flex;align-items:center;
 }
-.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(243,232,216,.55) 0%,rgba(243,232,216,.15) 60%,transparent 100%);}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
+.hero::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(20,17,14,.78) 0%,rgba(20,17,14,.55) 45%,rgba(20,17,14,.25) 100%);}
 .hero .container{position:relative;z-index:2;}
-.hero-content{max-width:620px;padding:60px 0;}
+.hero-content{max-width:640px;padding:80px 0;}
 .hero-eyebrow{
   text-transform:uppercase;letter-spacing:3px;font-size:13px;font-weight:600;
-  color:#8a7355;margin-bottom:18px;
+  color:#f0ddc5;margin-bottom:18px;
 }
 .hero h1{
-  font-size:64px;line-height:1.05;font-weight:700;color:var(--hero-text);
-  margin:0 0 22px;letter-spacing:-.5px;
+  font-size:64px;line-height:1.05;font-weight:700;color:#fff;
+  margin:0 0 22px;letter-spacing:-.5px;text-shadow:0 2px 18px rgba(0,0,0,.35);
 }
-.hero p{font-size:17px;color:#5c5145;max-width:520px;margin-bottom:30px;}
+.hero p{font-size:17px;color:#ece6df;max-width:520px;margin-bottom:30px;}
 .hero-nav{
-  position:absolute;right:40px;bottom:36px;z-index:2;display:flex;gap:16px;
-  font-size:13px;font-weight:600;letter-spacing:2px;color:#6b5d4c;text-transform:uppercase;
+  position:absolute;right:40px;bottom:36px;z-index:3;display:flex;gap:16px;align-items:center;
+  font-size:13px;font-weight:600;letter-spacing:2px;color:#f0ddc5;text-transform:uppercase;
 }
-.hero-nav button{background:none;border:none;color:#6b5d4c;font:inherit;letter-spacing:2px;padding:4px;}
+.hero-nav button{background:none;border:none;color:#f0ddc5;font:inherit;letter-spacing:2px;padding:4px;cursor:pointer;}
 .hero-nav button:hover{color:var(--accent);}
 .hero-nav .sep{opacity:.5;}
 

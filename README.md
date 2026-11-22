@@ -49,9 +49,12 @@ Then visit <http://localhost:8000>. (Deploy the folder as-is to any static host
 
 ## Notes
 
-- **Self-contained**: fonts and all images are local, so the site works offline.
-  The only online dependency is the embedded **Google Map** on the Contact /
-  Store Location pages, which needs internet to render.
+- **Self-contained**: fonts, images and the hero video are local, so the site
+  works offline. The only online dependency is the embedded **Google Map** on
+  the Contact / Store Location pages, which needs internet to render.
+- **Hero**: the homepage hero is the site's own looping freight/logistics video
+  (`assets/videos/hero.mp4`) with the overlay text and Prev/Next controls, matching
+  the original Slider Revolution background. A poster image shows before it loads.
 - **Product data** (43 products, 6 categories) was pulled from the live store
   and rendered into static pages. Since the original store lists no prices
   (B2B / quote model), product pages show a **"Request a Quote"** WhatsApp

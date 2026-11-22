@@ -38,18 +38,28 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  /* ---- Hero slider nav (single slide — subtle feedback) ---- */
-  var hero = document.querySelector('.hero');
+  /* ---- Hero video controls: Prev/Next step through the footage ---- */
+  var heroVideo = document.getElementById('heroVideo');
   var prev = document.getElementById('heroPrev');
   var next = document.getElementById('heroNext');
-  function pulse() {
-    if (!hero) return;
-    hero.style.transition = 'opacity .35s ease';
-    hero.style.opacity = '.6';
-    setTimeout(function () { hero.style.opacity = '1'; }, 350);
+  function seek(delta) {
+    if (!heroVideo) return;
+    var d = heroVideo.duration || 0;
+    if (!d || !isFinite(d)) { heroVideo.currentTime = 0; return; }
+    var t = heroVideo.currentTime + delta;
+    if (t < 0) t += d;
+    if (t > d) t -= d;
+    heroVideo.currentTime = t;
+    var pr = heroVideo.play(); if (pr && pr.catch) pr.catch(function () {});
   }
-  if (prev) prev.addEventListener('click', pulse);
-  if (next) next.addEventListener('click', pulse);
+  if (prev) prev.addEventListener('click', function () { seek(-5); });
+  if (next) next.addEventListener('click', function () { seek(5); });
+  // Ensure autoplay kicks in on browsers that need a nudge
+  if (heroVideo) {
+    var kick = function () { var p = heroVideo.play(); if (p && p.catch) p.catch(function () {}); };
+    heroVideo.addEventListener('canplay', kick, { once: true });
+    document.addEventListener('visibilitychange', function () { if (!document.hidden) kick(); });
+  }
 
   /* ---- Marquee: duplicate content so the loop is seamless at any width ---- */
   var track = document.getElementById('marqueeTrack');
