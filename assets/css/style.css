@@ -124,37 +124,49 @@ ul{margin:0;padding:0;list-style:none;}
    ============================================================ */
 .hero{
   position:relative;background:#241f1b;overflow:hidden;
-  min-height:620px;display:flex;align-items:center;
+  min-height:660px;display:flex;align-items:center;
 }
 .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
 .hero-overlay{position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(20,17,14,.80) 0%,rgba(20,17,14,.55) 45%,rgba(20,17,14,.22) 100%);transition:opacity .55s ease;}
 .hero.hero--light .hero-overlay{opacity:0;}
 .hero .container{position:relative;z-index:2;}
-.hero-content{max-width:640px;padding:80px 0;display:grid;}
+.hero-content{max-width:700px;padding:80px 0;display:grid;}
 .hero-slide{grid-area:1/1;opacity:0;visibility:hidden;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease;pointer-events:none;}
 .hero-slide.is-active{opacity:1;visibility:visible;transform:none;pointer-events:auto;}
 .hero-slide__inner{position:relative;z-index:2;}
 /* Slide 2 — beige card layout with 3D figure */
 .hero-slide--card .hero-slide__inner{
   background:#f4e6d2 url('../images/hero-card.jpg') center/cover;
-  padding:40px 150px 40px 44px;border-radius:14px;max-width:none;
+  padding:38px 150px 38px 44px;border-radius:14px;max-width:600px;
   box-shadow:0 30px 70px rgba(0,0,0,.26);
 }
-.hero-slide--card .hero-slide__inner h1{color:#4c4b53;text-shadow:none;font-size:44px;margin-bottom:18px;}
-.hero-slide--card .hero-slide__inner p{color:#5f5e66;}
+.hero-slide--card .hero-slide__inner h1{color:#4d5466;text-shadow:none;}
+.hero-slide--card .hero-slide__inner p{color:#000;}
 .hero-slide__figure{
   position:absolute;z-index:3;right:-250px;bottom:-40px;height:108%;width:auto;max-width:none;
   pointer-events:none;filter:drop-shadow(0 22px 34px rgba(0,0,0,.4));
 }
+/* Exact Slider Revolution typography (Kanit headlines, Roboto body) */
 .hero-eyebrow{
-  text-transform:uppercase;letter-spacing:3px;font-size:13px;font-weight:600;
-  color:#f0ddc5;margin-bottom:18px;
+  font-family:'Kanit',sans-serif;text-transform:uppercase;
+  font-size:24px;font-weight:400;line-height:32px;letter-spacing:-1.6px;
+  color:#fff;margin-bottom:12px;
 }
 .hero h1{
-  font-size:64px;line-height:1.05;font-weight:700;color:#fff;
-  margin:0 0 22px;letter-spacing:-.5px;text-shadow:0 2px 18px rgba(0,0,0,.35);
+  font-family:'Kanit',sans-serif;text-transform:uppercase;
+  font-size:64px;line-height:64px;font-weight:500;letter-spacing:-1.6px;color:#fff;
+  margin:0 0 26px;text-shadow:0 2px 18px rgba(0,0,0,.32);
 }
-.hero p{font-size:17px;color:#ece6df;max-width:520px;margin-bottom:30px;}
+.hero p{
+  font-family:'Roboto',sans-serif;font-size:18px;font-weight:400;line-height:26px;
+  color:#fff;max-width:520px;margin-bottom:32px;
+}
+.hero .btn{
+  font-family:'Kanit',sans-serif;font-weight:400;font-size:16px;text-transform:uppercase;
+  letter-spacing:.8px;color:#fff;background:#f78b2b;border-radius:8px;
+  padding:0 24px;line-height:52px;height:52px;display:inline-flex;align-items:center;box-shadow:none;
+}
+.hero .btn:hover{background:#e67a1c;color:#fff;transform:none;box-shadow:0 10px 22px rgba(247,139,43,.3);}
 .hero-dots{position:absolute;left:40px;bottom:38px;z-index:3;display:flex;gap:10px;}
 .hero-dots button{width:10px;height:10px;padding:0;border-radius:50%;border:1px solid rgba(240,221,197,.6);background:transparent;cursor:pointer;transition:background .25s ease,transform .25s ease,border-color .25s ease;}
 .hero-dots button:hover{border-color:var(--accent);}

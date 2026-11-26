@@ -134,6 +134,9 @@ function layout({title, desc, active, body, ogimg}){
 <meta name="description" content="${esc(decode(desc||''))}">
 <link rel="icon" href="/assets/images/favicon.png" sizes="any">
 <link rel="apple-touch-icon" href="/assets/images/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600&family=Roboto:wght@400;500&display=swap">
 <link rel="stylesheet" href="/assets/css/style.css">
 <meta property="og:title" content="${T(title)}">
 <meta property="og:type" content="website">
