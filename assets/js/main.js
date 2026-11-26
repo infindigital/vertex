@@ -84,6 +84,9 @@
         hero.addEventListener('mouseenter', function () { if (timer) clearInterval(timer); });
         hero.addEventListener('mouseleave', restart);
       }
+      // Reset so the first slide also plays its entrance animation on load
+      slides.forEach(function (s) { s.classList.remove('is-active'); });
+      void heroStage.offsetWidth; // force reflow
       go(idx);
       restart();
     }
