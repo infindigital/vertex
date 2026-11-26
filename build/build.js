@@ -235,6 +235,7 @@ function buildHome(){
 <section class="hero" id="hero">
   <video class="hero-video" id="heroVideo" autoplay muted loop playsinline preload="auto" poster="/assets/images/hero-poster.jpg"></video>
   <div class="hero-overlay" id="heroOverlay"></div>
+  <img class="hero-figure" id="heroFigure" src="/assets/images/hero-worker.png" alt="" aria-hidden="true">
   <div class="container"><div class="hero-content" id="heroSlides">
     <article class="hero-slide is-active" data-theme="dark" data-video="/assets/videos/hero.mp4" data-poster="/assets/images/hero-poster.jpg">
       <div class="hero-slide__inner">
@@ -250,7 +251,6 @@ function buildHome(){
         <p>From industrial safety gear to certified personal protective equipment, we source reliable products that prioritize compliance, durability, and workforce protection across demanding environments.</p>
         <a class="btn" href="/product-category/safety-and-ppe-products/">Explore Safety Solutions</a>
       </div>
-      <img class="hero-slide__figure" src="/assets/images/hero-worker.png" alt="" loading="lazy">
     </article>
     <article class="hero-slide" data-theme="dark" data-video="/assets/videos/hero-paint.mp4" data-poster="/assets/images/hero-paint-poster.jpg">
       <div class="hero-slide__inner">
