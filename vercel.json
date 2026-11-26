@@ -1,5 +1,15 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "trailingSlash": true,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/product-category/safety-and-ppe-products",
+      "destination": "/product-category/ppe-suppliers-jubail-saudi-arabia"
+    },
+    {
+      "source": "/product-category/safety-and-ppe-products/",
+      "destination": "/product-category/ppe-suppliers-jubail-saudi-arabia/"
+    }
+  ]
 }

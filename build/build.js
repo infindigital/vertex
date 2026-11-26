@@ -229,31 +229,41 @@ function buildHome(){
     return `<a class="cat" href="${href}"><span class="cat__circle"><img src="/assets/images/${icon}" alt=""></span><span>${name}</span></a>`;
   }).join('');
   const body = `
-<section class="hero">
-  <video class="hero-video" id="heroVideo" autoplay muted loop playsinline preload="auto" poster="/assets/images/hero-poster.jpg"><source src="/assets/videos/hero.mp4" type="video/mp4"></video>
+<section class="hero" id="hero">
+  <video class="hero-video" id="heroVideo" autoplay muted loop playsinline preload="auto" poster="/assets/images/hero-poster.jpg"></video>
+  <div class="hero-overlay" id="heroOverlay"></div>
   <div class="container"><div class="hero-content" id="heroSlides">
-    <article class="hero-slide is-active">
-      <div class="hero-eyebrow">Simplifying International Procurement</div>
-      <h1>End-to-End Sourcing Made Simple</h1>
-      <p>We manage supplier identification, quality checks, pricing, and logistics to deliver a transparent and efficient sourcing experience from factory selection to final delivery.</p>
-      <a class="btn" href="/contact-us/">Start Sourcing Today</a>
+    <article class="hero-slide is-active" data-theme="dark" data-video="/assets/videos/hero.mp4" data-poster="/assets/images/hero-poster.jpg">
+      <div class="hero-slide__inner">
+        <div class="hero-eyebrow">Simplifying International Procurement</div>
+        <h1>End-to-End Sourcing Made Simple</h1>
+        <p>We manage supplier identification, quality checks, pricing, and logistics to deliver a transparent and efficient sourcing experience from factory selection to final delivery.</p>
+        <a class="btn" href="/product-category/safety-and-ppe-products/">Start Sourcing Today</a>
+      </div>
     </article>
-    <article class="hero-slide">
-      <h1>Safety &amp; PPE Solutions You Can Trust</h1>
-      <p>From industrial safety gear to certified personal protective equipment, we source reliable products that prioritize compliance, durability, and workforce protection across demanding environments.</p>
-      <a class="btn" href="/product-category/ppe-suppliers-jubail-saudi-arabia/">Explore Safety Solutions</a>
+    <article class="hero-slide hero-slide--card" data-theme="light" data-video="/assets/videos/hero-texture.mp4" data-poster="/assets/images/hero-grey-poster.jpg">
+      <div class="hero-slide__inner">
+        <h1>Safety &amp; PPE Solutions You Can Trust</h1>
+        <p>From industrial safety gear to certified personal protective equipment, we source reliable products that prioritize compliance, durability, and workforce protection across demanding environments.</p>
+        <a class="btn" href="/product-category/safety-and-ppe-products/">Explore Safety Solutions</a>
+      </div>
+      <img class="hero-slide__figure" src="/assets/images/hero-worker.png" alt="" loading="lazy">
     </article>
-    <article class="hero-slide">
-      <div class="hero-eyebrow">Engineered for Performance</div>
-      <h1>Chemicals, Paints &amp; Sealants</h1>
-      <p>We source high-quality chemicals, industrial paints, and sealants designed for performance, consistency, and long-term reliability across manufacturing, construction, and industrial applications.</p>
-      <a class="btn" href="/product-category/chemicals-paints-and-sealants/">View Product Range</a>
+    <article class="hero-slide" data-theme="dark" data-video="/assets/videos/hero-paint.mp4" data-poster="/assets/images/hero-paint-poster.jpg">
+      <div class="hero-slide__inner">
+        <div class="hero-eyebrow">Engineered for Performance</div>
+        <h1>Chemicals,<br>Paints &amp; Sealants</h1>
+        <p>We source high-quality chemicals, industrial paints, and sealants designed for performance, consistency, and long-term reliability across manufacturing, construction, and industrial applications.</p>
+        <a class="btn" href="/product-category/safety-and-ppe-products/">View Product Range</a>
+      </div>
     </article>
-    <article class="hero-slide">
-      <div class="hero-eyebrow">Powering Smooth Performance</div>
-      <h1>Oil &amp; Lubricants</h1>
-      <p>Vertex Line Solutions supplies high-performance oils and lubricants designed to enhance efficiency, reduce wear, and extend equipment life across industrial and marine applications.</p>
-      <a class="btn" href="/products/">View Oil &amp; Lubricants</a>
+    <article class="hero-slide" data-theme="dark" data-video="/assets/videos/hero-oil.mp4" data-poster="/assets/images/hero-oil-poster.jpg">
+      <div class="hero-slide__inner">
+        <div class="hero-eyebrow">Powering Smooth Performance</div>
+        <h1>Oil And<br>Lubricants</h1>
+        <p>Vertex Line Solutions supplies high performance oils and lubricants designed to enhance efficiency, reduce wear, and extend equipment life across industrial and marine applications.</p>
+        <a class="btn" href="/product-category/safety-and-ppe-products/">View Oil &amp; Lubricant</a>
+      </div>
     </article>
   </div></div>
   <div class="hero-dots" id="heroDots" aria-label="Hero slides"></div>

@@ -60,15 +60,26 @@
         });
       }
       var timer = null;
+      var hero = heroStage.closest('.hero');
+      var curVideo = '';
       function go(n) {
         idx = (n + slides.length) % slides.length;
         slides.forEach(function (s, i) { s.classList.toggle('is-active', i === idx); });
         dots.forEach(function (d, i) { d.classList.toggle('is-active', i === idx); });
+        var s = slides[idx];
+        // Swap the shared background video to this slide's clip (load on demand)
+        if (heroVideo && s.dataset.video && s.dataset.video !== curVideo) {
+          curVideo = s.dataset.video;
+          if (s.dataset.poster) heroVideo.poster = s.dataset.poster;
+          heroVideo.src = s.dataset.video;
+          var pr = heroVideo.play(); if (pr && pr.catch) pr.catch(function () {});
+        }
+        // Light theme (beige-card slide) hides the dark overlay and flips controls
+        if (hero) hero.classList.toggle('hero--light', s.dataset.theme === 'light');
       }
       function restart() { if (timer) clearInterval(timer); timer = setInterval(function () { go(idx + 1); }, 6000); }
       if (prev) prev.addEventListener('click', function () { go(idx - 1); restart(); });
       if (next) next.addEventListener('click', function () { go(idx + 1); restart(); });
-      var hero = heroStage.closest('.hero');
       if (hero) {
         hero.addEventListener('mouseenter', function () { if (timer) clearInterval(timer); });
         hero.addEventListener('mouseleave', restart);
