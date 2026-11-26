@@ -231,12 +231,33 @@ function buildHome(){
   const body = `
 <section class="hero">
   <video class="hero-video" id="heroVideo" autoplay muted loop playsinline preload="auto" poster="/assets/images/hero-poster.jpg"><source src="/assets/videos/hero.mp4" type="video/mp4"></video>
-  <div class="container"><div class="hero-content">
-  <div class="hero-eyebrow">Simplifying International Procurement</div>
-  <h1>End-to-End Sourcing Made Simple</h1>
-  <p>We manage supplier identification, quality checks, pricing, and logistics to deliver a transparent and efficient sourcing experience from factory selection to final delivery.</p>
-  <a class="btn" href="/contact-us/">Start Sourcing Today</a>
-</div></div><div class="hero-nav"><button type="button" id="heroPrev">Prev</button><span class="sep">/</span><button type="button" id="heroNext">Next</button></div></section>
+  <div class="container"><div class="hero-content" id="heroSlides">
+    <article class="hero-slide is-active">
+      <div class="hero-eyebrow">Simplifying International Procurement</div>
+      <h1>End-to-End Sourcing Made Simple</h1>
+      <p>We manage supplier identification, quality checks, pricing, and logistics to deliver a transparent and efficient sourcing experience from factory selection to final delivery.</p>
+      <a class="btn" href="/contact-us/">Start Sourcing Today</a>
+    </article>
+    <article class="hero-slide">
+      <h1>Safety &amp; PPE Solutions You Can Trust</h1>
+      <p>From industrial safety gear to certified personal protective equipment, we source reliable products that prioritize compliance, durability, and workforce protection across demanding environments.</p>
+      <a class="btn" href="/product-category/ppe-suppliers-jubail-saudi-arabia/">Explore Safety Solutions</a>
+    </article>
+    <article class="hero-slide">
+      <div class="hero-eyebrow">Engineered for Performance</div>
+      <h1>Chemicals, Paints &amp; Sealants</h1>
+      <p>We source high-quality chemicals, industrial paints, and sealants designed for performance, consistency, and long-term reliability across manufacturing, construction, and industrial applications.</p>
+      <a class="btn" href="/product-category/chemicals-paints-and-sealants/">View Product Range</a>
+    </article>
+    <article class="hero-slide">
+      <div class="hero-eyebrow">Powering Smooth Performance</div>
+      <h1>Oil &amp; Lubricants</h1>
+      <p>Vertex Line Solutions supplies high-performance oils and lubricants designed to enhance efficiency, reduce wear, and extend equipment life across industrial and marine applications.</p>
+      <a class="btn" href="/products/">View Oil &amp; Lubricants</a>
+    </article>
+  </div></div>
+  <div class="hero-dots" id="heroDots" aria-label="Hero slides"></div>
+  <div class="hero-nav"><button type="button" id="heroPrev">Prev</button><span class="sep">/</span><button type="button" id="heroNext">Next</button></div></section>
 
 <section class="features"><div class="container">
   <div class="feature"><svg class="feature__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2 4 5v6c0 5 3.4 8.5 8 10 4.6-1.5 8-5 8-10V5l-8-3z"/><polyline points="9 12 11 14 15 10"/></svg><div><h4>Certified &amp; Trusted Products</h4><p>Every product meets strict safety standards.</p></div></div>

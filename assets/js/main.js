@@ -38,22 +38,45 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  /* ---- Hero video controls: Prev/Next step through the footage ---- */
+  /* ---- Hero slider: Prev/Next + dots cycle the text slides over the video ---- */
   var heroVideo = document.getElementById('heroVideo');
   var prev = document.getElementById('heroPrev');
   var next = document.getElementById('heroNext');
-  function seek(delta) {
-    if (!heroVideo) return;
-    var d = heroVideo.duration || 0;
-    if (!d || !isFinite(d)) { heroVideo.currentTime = 0; return; }
-    var t = heroVideo.currentTime + delta;
-    if (t < 0) t += d;
-    if (t > d) t -= d;
-    heroVideo.currentTime = t;
-    var pr = heroVideo.play(); if (pr && pr.catch) pr.catch(function () {});
+  var heroStage = document.getElementById('heroSlides');
+  var dotsWrap = document.getElementById('heroDots');
+  if (heroStage) {
+    var slides = Array.prototype.slice.call(heroStage.querySelectorAll('.hero-slide'));
+    if (slides.length > 1) {
+      var idx = Math.max(0, slides.findIndex(function (s) { return s.classList.contains('is-active'); }));
+      var dots = [];
+      if (dotsWrap) {
+        slides.forEach(function (_, i) {
+          var b = document.createElement('button');
+          b.type = 'button';
+          b.setAttribute('aria-label', 'Go to slide ' + (i + 1));
+          b.addEventListener('click', function () { go(i); restart(); });
+          dotsWrap.appendChild(b);
+          dots.push(b);
+        });
+      }
+      var timer = null;
+      function go(n) {
+        idx = (n + slides.length) % slides.length;
+        slides.forEach(function (s, i) { s.classList.toggle('is-active', i === idx); });
+        dots.forEach(function (d, i) { d.classList.toggle('is-active', i === idx); });
+      }
+      function restart() { if (timer) clearInterval(timer); timer = setInterval(function () { go(idx + 1); }, 6000); }
+      if (prev) prev.addEventListener('click', function () { go(idx - 1); restart(); });
+      if (next) next.addEventListener('click', function () { go(idx + 1); restart(); });
+      var hero = heroStage.closest('.hero');
+      if (hero) {
+        hero.addEventListener('mouseenter', function () { if (timer) clearInterval(timer); });
+        hero.addEventListener('mouseleave', restart);
+      }
+      go(idx);
+      restart();
+    }
   }
-  if (prev) prev.addEventListener('click', function () { seek(-5); });
-  if (next) next.addEventListener('click', function () { seek(5); });
   // Ensure autoplay kicks in on browsers that need a nudge
   if (heroVideo) {
     var kick = function () { var p = heroVideo.play(); if (p && p.catch) p.catch(function () {}); };
